@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning cloud engineering and software development
 - 💞️ I’m looking to collaborate on any projects and events related to the same
 - 📫 How to reach me:sylviaboyani11@gmail.com
+- 👩🏽‍🎓 I am also a graduate Electrical and Electronics Engineer(Control and Instrumentation)
 
 <!---
 sylvia-boyani/sylvia-boyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

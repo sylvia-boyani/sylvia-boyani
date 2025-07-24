@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects and events related to the same
 - 📫 How to reach me:sylviaboyani11@gmail.com
 - 👩🏽‍🎓 I am also a graduate Electrical and Electronics Engineer(Control and Instrumentation) Engineer
+- Check out my othe github repo, https://github.com/boyani-Otieno
 
 <!---
 sylvia-boyani/sylvia-boyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
